@@ -16,8 +16,9 @@ This project addresses common challenges when building containerized full-stack 
 
 ## Solutions
 
-[![Docker Compose Demo](media/docker-img.png)](media/docker-demo.mp4)
-*Click the image above to watch the demo video (MP4, will open in your browser).*
+<a href="https://drive.google.com/file/d/1ngrLag2T5Z1h5cojeJLipLuCWa2hq4kI/preview" target="_blank">
+  <img src="media/docker-img.png" alt="Demo video thumbnail: Docker architecture overview" width="640" />
+</a>
 
 > **Note:** GitHub READMEs do not support embedded video playback, so the video is provided as a downloadable or in-browser link.
 
