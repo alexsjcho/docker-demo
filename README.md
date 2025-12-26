@@ -1,6 +1,10 @@
 # Docker Compose Project: Next.js + Node.js + Redis
 
-## What This Demo Solves
+## Foreword
+
+This is just a practice demo for me to understand how Docker works
+
+## What This Demo Conceptually Solves 
 
 This project addresses common challenges when building containerized full-stack applications:
 
@@ -11,6 +15,11 @@ This project addresses common challenges when building containerized full-stack 
 - **Development workflow**: Setting up a complete local development environment that mirrors production container architecture
 
 ## Solutions
+
+<video controls autoplay loop muted width="100%" poster="media/docker-demo-thumbnail.jpg">
+  <source src="media/docker-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 This demo addresses each challenge with practical, production-ready implementations:
 
@@ -33,18 +42,6 @@ This demo is specifically beneficial for **DevOps engineers and platform enginee
 - **Platform engineers** building internal developer platforms who want to see how to structure containerized applications that developers can easily run locally
 - **DevOps engineers transitioning from VMs to containers** who need to understand service discovery, container networking, and orchestration concepts
 - **Site Reliability Engineers (SREs)** looking for examples of resilience patterns (health checks, auto-restart, rate limiting) in containerized environments
-
-If you're responsible for containerizing applications, setting up local development environments, or designing service architectures, this project demonstrates essential patterns you'll use in production.
-
-This demo is ideal for:
-
-- **Full-stack developers** learning Docker Compose and container orchestration basics
-- **Backend developers** expanding into frontend development who need to understand service communication patterns
-- **Frontend developers** moving into full-stack who want to see how services interact in a containerized environment
-- **DevOps beginners** looking for a practical example of multi-container applications with health checks and dependency management
-- **Students and bootcamp graduates** building portfolio projects that demonstrate modern deployment practices
-
-If you're comfortable with JavaScript/Node.js but new to Docker Compose, or if you understand Docker basics but want to see a complete, production-pattern application, this project is for you.
 
 ---
 
