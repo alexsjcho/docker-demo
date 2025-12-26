@@ -16,10 +16,10 @@ This project addresses common challenges when building containerized full-stack 
 
 ## Solutions
 
-<video controls autoplay loop muted width="75%" poster="media/docker-demo-thumbnail.jpg">
-  <source src="media/docker-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Docker Compose Demo](media/docker-img.png)](media/docker-demo.mp4)
+*Click the image above to watch the demo video (MP4, will open in your browser).*
+
+> **Note:** GitHub READMEs do not support embedded video playback, so the video is provided as a downloadable or in-browser link.
 
 This demo addresses each challenge with practical, production-ready implementations:
 
