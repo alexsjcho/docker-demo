@@ -16,7 +16,7 @@ This project addresses common challenges when building containerized full-stack 
 
 ## Solutions
 
-<video controls autoplay loop muted width="100%" poster="media/docker-demo-thumbnail.jpg">
+<video controls autoplay loop muted width="75%" poster="media/docker-demo-thumbnail.jpg">
   <source src="media/docker-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
